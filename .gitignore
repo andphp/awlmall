@@ -1,0 +1,58 @@
+.idea/*
+*.bak
+.user.ini
+.vscode/
+.history
+.idea
+.env
+*.DS_Store
+
+## hyperf
+hyperf/.buildpath
+hyperf/.settings/
+hyperf/.project
+hyperf/*.patch
+hyperf/.idea/
+hyperf/.git/
+hyperf/runtime/
+hyperf/vendor/
+hyperf/.phpintel/
+hyperf/.env
+hyperf/.DS_Store
+hyperf/*.lock
+hyperf/.phpunit*
+
+## uni-app
+uni-app/unpackage/
+uni-app/.idea/*
+uni-app/*.bak
+uni-app/.user.ini
+uni-app/.vscode/
+uni-app/.history
+uni-app/.idea
+uni-app/.env
+uni-app/*.DS_Store
+
+## ant-design-vue-pro
+ant-design-vue-pro/.DS_Store
+ant-design-vue-pro/node_modules
+ant-design-vue-pro/dist
+
+# local env files
+ant-design-vue-pro/.env.local
+ant-design-vue-pro/.env.*.local
+
+# Log files
+ant-design-vue-pro/npm-debug.log*
+ant-design-vue-pro/yarn-debug.log*
+ant-design-vue-pro/yarn-error.log*
+ant-design-vue-pro/pnpm-debug.log*
+
+# Editor directories and files
+ant-design-vue-pro/.idea
+ant-design-vue-pro/.vscode
+ant-design-vue-pro/*.suo
+ant-design-vue-pro/*.ntvs*
+ant-design-vue-pro/*.njsproj
+ant-design-vue-pro/*.sln
+ant-design-vue-pro/*.sw?
